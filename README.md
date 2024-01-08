@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pogi-tangkad
-- 👀 I’m interested in developing CS skills.  In particular, I would like to create database manipulation GUIs.
+- 👀 I’m interested in developing CS skills.
 - 🌱 I’m currently learning Python, Java, sqlite3
 
 <!---
